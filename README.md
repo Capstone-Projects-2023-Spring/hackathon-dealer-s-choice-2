@@ -16,23 +16,23 @@ Section 704, events, calendars.
 
 ## Project Abstract
 
-This document proposes a novel application of a text message (SMS or Email) read-out and hands-free call interacted between an Android Smartphone and an infotainment platform (headunit) in a car environment. When a phone receives an SMS or Email, the text message is transferred from the phone to the headunit through a Bluetooth connection. On the headunit, user can control which and when the received SMS or E-mail to be read out through the in-vehicle audio system. The user may press one button on the headunit to activate the hands-free feature to call back the SMS sender.
+This project provides a simple yet effective desktop application that shows all upcoming events in the next two weeks. The  project also supports custom tag searches to see all events of a certain type. It is written in Python with a tkinter interface. API calls occur during each request to be as up to date as possible without calling excessively.
 
 ## High Level Requirement
 
-Describe the requirements – i.e., what the product does and how it does it from a user point of view – at a high level.
+For the user, this project provides a simple reminder for all deadlines in the upcoming two weeks. If the user wanted to find all deadlines of a certain type, they are also able to search up specific events by event tag for a specifiedview of their choice.
 
 ## Conceptual Design
 
-Describe the initial design concept: Hardware/software architecture, programming language, operating system, etc.
+The program is written in Python with a UI using tkinter. There is no other notable points of interest, and run using the Python interpreter.
 
 ## Background
 
-The background will contain a more detailed description of the product and a comparison to existing similar projects/products. A literature search should be conducted and the results listed. Proper citation of sources is required. If there are similar open-source products, you should state whether existing source will be used and to what extent. If there are similar closed-source/proprietary products, you should state how the proposed product will be similar and different.
+Capstone courses are intense and tend to have a lot of due dates that gets quickly overwhelming. Being able to have a way to sift through these dates and provide an easy-to-read way to review everything provides students a huge benefit to be as effective as possible!
 
 ## Required Resources
 
-Discuss what you need to develop this project. This includes background information you will need to acquire, hardware resources, and software resources. If these are not part of the standard Computer Science Department lab resources, these must be identified early and discussed with the instructor.
+There were no required resources outside of an understanding of python.
 
 
 ## Class Diagram
