@@ -34,6 +34,11 @@ The background will contain a more detailed description of the product and a com
 
 Discuss what you need to develop this project. This includes background information you will need to acquire, hardware resources, and software resources. If these are not part of the standard Computer Science Department lab resources, these must be identified early and discussed with the instructor.
 
+
+## Class Diagram
+
+[![](https://mermaid.ink/img/pako:eNptUsFOwzAM_ZUqpyG2H-gBiTE4wYTYxCRUCZnG66IlcUncQVT272TtVoWNXBI_--W92GlFSRJFLkoN3s8UVA5MYbO4ZsA4pcZKdNlk8nOTLYLW8NH4O9BoJbi-rCNe5No-mWUT3KFl_w5an0FDyPjNQ-CIhuDawBZf8LNBz6OrAa1BWX4gZ4AZ5TKyk2RTy-j7AizJKFslUO9hGpahxvRuh8zh2UWFE7pP33nf0drEobIJvULuK_4lJx1tU8oiQhBu14xu_te48q-glZxBSECHhnbY6cyJV4o3yi6_aIW49SOpSn5Unk_6YiwMxlYpGYfcqRaCN2iwEHk8xlFtC1HYQx00TItgS5Gza3As-lYe_4TI16B9RFEqJvd0_DWHbSxqsG9Ep5r9L9EIvh8?type=png)](https://mermaid.live/edit#pako:eNptUsFOwzAM_ZUqpyG2H-gBiTE4wYTYxCRUCZnG66IlcUncQVT272TtVoWNXBI_--W92GlFSRJFLkoN3s8UVA5MYbO4ZsA4pcZKdNlk8nOTLYLW8NH4O9BoJbi-rCNe5No-mWUT3KFl_w5an0FDyPjNQ-CIhuDawBZf8LNBz6OrAa1BWX4gZ4AZ5TKyk2RTy-j7AizJKFslUO9hGpahxvRuh8zh2UWFE7pP33nf0drEobIJvULuK_4lJx1tU8oiQhBu14xu_te48q-glZxBSECHhnbY6cyJV4o3yi6_aIW49SOpSn5Unk_6YiwMxlYpGYfcqRaCN2iwEHk8xlFtC1HYQx00TItgS5Gza3As-lYe_4TI16B9RFEqJvd0_DWHbSxqsG9Ep5r9L9EIvh8)
+
 ## Collaborators
 
 [//]: # ( readme: collaborators -start )
